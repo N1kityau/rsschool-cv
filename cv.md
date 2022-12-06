@@ -1,7 +1,7 @@
 # **Kapralov Nikita**
 ## **My Contact Info:**
   + Location: Izhevsk, Russia
-  + Phone: +7 945 452 93 63
+  + Phone: +7 945 452 93 83
   + E-mail: [nikita300kapralov@gmail.com](https://www.google.com/intl/ru/gmail/about/ "Описание")
   + GitHub: [N1kityau](https://github.com/N1kityau "Описание")
   + Telegram: [N1KITYAU](https://t.me/N1KITYAU "Описание")
