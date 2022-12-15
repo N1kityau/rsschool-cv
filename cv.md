@@ -8,7 +8,7 @@
 
 
 ## **About Me**
-I'm 19 years old, I study at the university but I don't like it). Although I entered the IT specialty. As a result, I decided to drop out and learn the basics of the Frontend developer profession on my own. I believe that everything will work out for me, the path will be mastered by the walking one.
+I am 19 years old, I study at the university, but I do not like it). Although I entered the IT-specialty. As a result, I decided to quit my studies and learn the basics of the Frontend developer profession on my own. I believe that everything will work out for me, the path will be mastered by the walking one.
 * **My strengths:**
   + diligence
   + perseverance
