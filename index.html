@@ -4,15 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Название сайта</title>
+    <title>CV Капралов Никита</title>
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-
+    <header class="header">
+        <nav class="nav">
+            <ul class="nav-ul">
+                <li><a href="#contacts">contacts</a></li>
+                <li><a href="#skills">skills</a></li>
+                <li><a href="#strengths">strengths</a></li>
+                <li><a href="#about-me">about me</a></li>
+                <li><a href="#education">education</a></li>
+                <li><a href="#languages">languages</a></li>
+                <li><a href="#code-example">code example</a></li>
+            </ul>
+        </nav>
+    </header>
     <main class="main">
         <div class="left-colums">
-            <header class="header">
+            <header class="left-colums-header">
                 <img class="face" src="./assets/img/face.jpg" alt="">
                 <div class="name-and-surname">
                     <h1 class="name">Nikita</h1>
@@ -20,7 +32,7 @@
                 </div>
                 <h2 class="jfd">Junior Frontend Developer</h2>
             </header>
-            <section class="contacts">
+            <section class="contacts" id="contacts">
                 <div class="section-header">
                     <h2>Contacts</h2>
                 </div>
@@ -44,7 +56,7 @@
             <div class="section-header">
                 <h2>Skills</h2>
             </div>
-            <section class="skills">
+            <section class="skills" id="skills">
                 <div class="item-2">
                     <img src="./assets/svg/html.svg" alt="иконка html">
                 </div>
@@ -61,7 +73,7 @@
                     <img src="./assets/svg/figma.svg" alt="иконка figma">
                 </div>
             </section>
-            <section class="my-strengths">
+            <section class="my-strengths" id="strengths">
                 <div class="section-header">
                     <h2>Strengths</h2>
                 </div>
@@ -74,7 +86,7 @@
             </section>
         </div>
         <div class="right-colums">
-            <section class="about-Me">
+            <section class="about-Me" id="about-me">
                 <h2 class="about-me">About Me</h2>
                 <div class="line"></div>
                 <p class="text">I am 19 years old, I study at the university, 
@@ -84,22 +96,22 @@
                     everything will work out for me, the path will be mastered by 
                     the walking one.</p>
             </section>
-            <section class="about-Me">
+            <section class="about-Me" id="education">
                 <h2 class="about-me">Education</h2>
                 <div class="line"></div>
                 <p class="text">(first year) Izhevsk State Technical University named 
                     after M.T. Kalashnikov, majoring in applied mathematics and 
                     information technology.</p>
             </section>
-            <section class="about-Me">
-                <h2 class="about-me">LANGUAGES</h2>
+            <section class="about-Me" id="languages">
+                <h2 class="about-me">Languages</h2>
                 <div class="line"></div>
                 <ul class="text">
                     <li>English: Low language level (A1)</li>
                     <li>Russian: Native</li>
                 </ul>
             </section>
-            <section class="about-Me">
+            <section class="about-Me" id="code-example">
                 <h2 class="about-me">Code Example</h2>
                 <div class="line"></div>
                 <pre>
@@ -119,9 +131,9 @@ accountant(15)
     </main>
     <footer class="footer">
         <ul class="list-footer">
-            <li class="img-item-footer"><a href="https://rs.school/js-stage0/" target="_blank"><img src="./assets/img/logo-rsschool3.png" alt="logo-rsschool"></a></li>
-            <li class="number-item-footer"><p>2022</p></li>
+            <li class="number-item-footer"><p>© 2022</p></li>
             <li class="logo-Github-item-footer"><a href="https://github.com/N1kityau" target="_blank"><img src="./assets/svg/github-dark.svg" alt="logo-github-footer"></a></li>
+            <li class="img-item-footer"><a href="https://rs.school/js-stage0/" target="_blank"><img src="./assets/img/logo-rsschool3.png" alt="logo-rsschool"></a></li>
         </ul>
     </footer>
 </body>
